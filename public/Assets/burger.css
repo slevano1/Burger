@@ -1,0 +1,56 @@
+body {
+    background-color: lightblue;
+    background-image: url("/Assets/Img/burger006.gif");
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+
+input#enter_text {
+    margin-top: 150px;
+    margin-left: 550px;
+}
+
+div#task {
+    margin-top: 75px;
+}
+
+
+/*Title*/
+h1 {
+	font-size: 80px;
+	color: #ff7d00;
+	text-shadow: 2px 3px #222222;
+  text-align: center;
+  margin-top: 265px;
+}
+/*"enter a burger..." text*/
+ p {
+  font-size: 40px;
+	color: #ff7d00;
+	text-shadow: 1px 1px #222222;
+  text-align: center;
+}
+/*style to the text box */
+#enter_text {
+width: 30%;
+height: 120px;
+padding: 12px 20px;
+box-sizing: border-box;
+border: 2px solid #b5a89f;
+border-radius: 8px;
+background-color: #f8d088;
+font-size: 48px;
+color: #ffffff;
+text-shadow: 2px 3px #222222;
+text-align: center;
+resize: none;
+}
+
+.form-control{
+  padding-left: 5px;
+	padding-right: 25px;
+	margin-left: 60px;
+  margin-bottom: 25px
+}
