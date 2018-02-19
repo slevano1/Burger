@@ -11,7 +11,7 @@ body {
 
 input#enter_text {
     /* margin-top: 150px; */
-    margin-left: 360px;
+    /* margin-left: 300px; */
 }
 
 div#task {
@@ -34,16 +34,16 @@ h1 {
 	color: #ff7d00;
 	text-shadow: 1px 1px #222222;
   text-align: center;
-  margin-left: 205px;
+  /* margin-left: 205px; */
 }
 
 button#text-enter-button {
-    margin-left: 135px;
+    /* margin-left: 135px; */
   }
 
 /*style to the text box */
 #enter_text {
-  width: 40%;
+  /* width: 40%; */
   height: 120px;
   padding: 12px 20px;
   box-sizing: border-box;
